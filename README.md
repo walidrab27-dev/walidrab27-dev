@@ -1,39 +1,89 @@
-# Hi there, I'm Walid Rabei 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Walid%20Rabei&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-## 💻 About Me
-- 🎓 Aspiring software developer with a strong focus on **C++** and **problem solving**.
-- 🚀 Currently practicing algorithms, data structures, and building small projects.
-- 🌱 Passionate about continuous learning and improving my coding skills.
-- 🎯 Goal: Become a competitive programmer and contribute to open-source projects.
+<h1 align="center">Backend Developer | C# | .NET</h1>
 
----
-
-## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=C%23+Backend+Developer;.NET+API+Developer;C%2B%2B+Programmer;Python+Developer;Always+Learning+New+Things"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
-- [Student Management System](https://github.com/walidrab27-dev/Student-Management-System)  
-- [Quiz Application](https://github.com/walidrab27-dev/Quiz-App)  
-- More projects coming soon 🚀
+## 🚀 About Me
+
+* 💻 Backend Developer using **C# & .NET**
+* 🧠 Strong foundation in **OOP & Problem Solving**
+* 🗄 Experienced with **SQL Server**
+* ⚡ Built projects using **C++, C#, Python**
+* 🎨 Explored **Frontend & UX/UI**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,git,github,visualstudio,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,figma"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidrab27-dev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrab27-dev&layout=compact&theme=tokyonight)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=walidrab27-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=walidrab27-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-rabei-0603392a2/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/walidrab27/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walidrab27/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidrab27@gmail.com)  
+## 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidrab27-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=walidrab27-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=walidrab27-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+⚡ Always learning, always building cool things.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
